@@ -1,0 +1,36 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon storefront app",
+  "main": "bamazon.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "dotenv": "^4.0.0",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno-13/bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "storefront",
+    "app",
+    "amazon",
+    "mysql",
+    "node"
+  ],
+  "author": "Bruno Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno-13/bamazon/issues"
+  },
+  "homepage": "https://github.com/Bruno-13/bamazon#readme"
+}
